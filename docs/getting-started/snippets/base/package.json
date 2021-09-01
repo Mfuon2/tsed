@@ -28,7 +28,7 @@
     "@tsed/core": "6.11.3",
     "@tsed/di": "6.11.3",
     "@tsed/exceptions": "6.11.3",
-    "@tsed/schema": "6.11.3",
+    "@tsed/schema": "6.62.2",
     "@tsed/json-mapper": "6.11.3",
     "@tsed/platform-express": "6.11.3",
     "@tsed/swagger": "6.11.3",
