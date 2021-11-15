@@ -57,7 +57,7 @@
     "cache-manager": "^3.4.1",
     "consolidate": "^0.16.0",
     "ejs": "^3.1.5",
-    "json-schema": "^0.2.3",
+    "json-schema": "^0.4.0",
     "on-finished": "2.3.0",
     "tslib": "2.2.0",
     "uuid": "8.3.2"
