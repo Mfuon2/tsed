@@ -24,7 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "@tsed/ajv": "6.11.3",
-    "@tsed/common": "6.11.3",
+    "@tsed/common": "6.90.0",
     "@tsed/core": "6.11.3",
     "@tsed/di": "6.11.3",
     "@tsed/exceptions": "6.11.3",
